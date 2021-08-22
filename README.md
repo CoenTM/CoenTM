@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a passionate mobile app/software engineer from Japan based in the United States.
+I am a passionate mobile app/software engineer from Japan based in the United States. 
 
 I enjoy playing Super Smash Bros Ultimate during my free time, and for the next couple of months, I will participate in competitive landscape of the game.
 
